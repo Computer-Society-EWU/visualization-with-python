@@ -1,10 +1,10 @@
-# D-Lab Visualization with Python workshop
+# Computer Society Visualization with Python workshop
 
 This repository contains materials for the Visualization with Python workshop at the IEEE: Computer Society EWU student branch.
 
 ### 1. Software for the workshop
 
-The best learning experience happens when you can edit and run code. So, please have Python Anaconda Distribution 3.7, seaborn, matplotlib, numpy, and jupyter installed before the start of the workshop. Follow the steps below to setup your environment: 
+The best learning experience happens when you can edit and run code. So, please use VSCODE and have Python Anaconda Distribution 3.7, seaborn, matplotlib, numpy, and jupyter installed before the start of the workshop. Follow the steps below to setup your environment: 
 
 1. [Click here to download Python Anaconda 3.7 Distribution](https://www.anaconda.com/products/individual), although 3.6 is also okay if you already have it installed. Scroll down to the "Anaconda Installers" section and click the "Graphical Installer" option that corresponds to your operating system. 
 
