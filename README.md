@@ -1,6 +1,6 @@
 # D-Lab Visualization with Python workshop
 
-This repository contains materials for the Visualization with Python workshop at the UC Berkeley D-Lab.
+This repository contains materials for the Visualization with Python workshop at the IEEE: Computer Society EWU student branch.
 
 ### 1. Software for the workshop
 
